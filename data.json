@@ -1,6 +1,6 @@
 {
   "patched": {"v2-compatability": false, "v3": false},
-  "patch-notes": "* v2 is officially deprecated, instead v2-compatability is released.\n* v2-compatability is currently undetected.",
+  "patch-notes": "* v2 is officially deprecated, instead v2-compatability is released.\n* v2-compatability is currently undetected.\n* v3 is working, but it's risky and buggy!",
   "v2-compatability": "",
   "v3": "",
   "client-patched": false
